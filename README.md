@@ -15,8 +15,8 @@ Included are some basic functions for stack manipulation, sums and trigonometry.
 I had a problem - needed a faster way to do math in console than with python - and this is
 the on-knee solution. I know there are *cleaner* ways to implement this however:
 
-"Bo neni cas pyco"
-- Sobotka
+"Bo neni cas pyco"  
+-- průměrný ostravák
 
 # Building
 
